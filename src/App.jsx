@@ -4,7 +4,6 @@ import Box from "./Components/Box/Box";
 import Footer from "./Components/Footer/Footer";
 import HeaderTwo from "./Components/HeaderTwo/HeaderTwo";
 import "./App.css";
-import AdSenseComp from './Components/AdSenseComp/AdSenseComp';
 
 function App() {
   return (
@@ -12,7 +11,6 @@ function App() {
       <HeaderTwo />
       <Box />
       <About />
-      <AdSenseComp />
       {/* <Developers /> */}
       <Footer />
     </div>
